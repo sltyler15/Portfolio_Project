@@ -1,0 +1,80 @@
+body {
+  background-color: rgb(0, 46, 93);
+  color: #eeeeee;
+  margin: 5;
+  padding: 0;
+}
+.content div{
+  color: #eeeeee;
+  text-align: center;
+  font-size: 20px;
+}
+.thumbnail {
+  border: 3px solid black;
+  padding: 1px;
+  margin-left: 50px;
+}
+html {
+  background-color: gray;
+}
+.nav-tab div {
+  display: inline-block;
+  width: 100px;
+  padding: 10px;
+  text-align: center;
+}
+.nav-tab {
+  border-bottom: 2px solid #ffffff;
+}
+.nav1 {
+  border-right: 2px solid #ffffff;
+}
+.s21,.s22{
+  width: 75px;
+  height: 25px;
+  display: inline-block;
+  text-align: left;
+  border: 1px solid gray;
+  padding: 2px;
+  background-color: gray;
+  margin-left: 10px;
+}
+.s21 {
+  margin-left: 50px;
+}
+.thumbnail,.c1 {
+  display: inline-block;
+}
+.c1 {
+  width: 400px;
+  margin-left: 10px;
+  border: 1px solid white;
+  text-align: left;
+}
+.p1, .p2 {
+  width: 200px;
+  display: inline-block;
+  border: 20px solid gray;
+  text-align: center;
+  padding: 2px;
+  margin:10px 75px 75px 75px;
+  font-size: 12px;
+}
+.s1 p {
+  text-align: left;
+  display: block;
+  width: 800px;
+  height:5px;
+  margin-left: 30px;
+  padding: 2px;
+  margin: 30px;
+}
+.s1 {
+  margin-top: 30px;
+}
+.content div {
+  margin-bottom: 100px;
+}
+.s1 div {
+    border: 1px solid gray;
+}
